@@ -7,25 +7,36 @@ Título do Workshop: **Build your own Copilots with Microsoft Copilot Studio**
 
 Evento: **Microsoft AI Tour - São Paulo**
 
+Data: **21/03/2024 (quinta-feira)**
+
 Tecnologias abordadas: **Microsoft Copilot Studio, Power Automate, .NET, ASP.NET Core, Visual Studio 2022**
 
 Local: **Transamerica Expo Center - Av. Dr. Mário Vilas Boas Rodrigues, 387 - Santo Amaro - São Paulo - SP - CEP: 04757-020**
 
+Público total das sessões: **200 pessoas**
+
 Speakers:
-- **Renato Groffe (Microsoft MVP, MTAC)**
-- **Allisson Scalco (Microsoft MVP)**
+- **Rodrigo Cristelli Lugarinho (Microsoft)**
+- **Djalma Franco (Microsoft)**
 
 Monitores (Proctors):
-- **Renato Groffe (Microsoft MVP, MTAC)**
+- **Renato Groffe (Microsoft MVP)**
 - **Allisson Scalco (Microsoft MVP)**
 - **Eduardo Amaral (Microsoft MVP)**
 - **Marcelo Paiva (Microsoft MVP)**
+
+Deixamos aqui meus agradecimentos:
+- Ao **Rodrigo Cristelli Lugarinho** e ao **Djalma Franco** por todo o apoio e pela oportunidade em auxiliá-los durante o evento.
+- Ao **Victor Temple (Microsoft Reactor)** e à **Larissa Cyganski (Microsoft Reactor)** pelo convite.
+- E aos amigos **Allisson Scalco**, **Eduardo Amaral** e **Marcelo Paiva** que estiveram juntos comigo nesta iniciativa.
 
 Foram 2 sessões durante a tarde, com fotos das mesmas abaixo e nas sessões seguintes deste documento:
 
 ![Site](img/site-01.png)
 
-![Site](img/final.jpg)
+![Final](img/final.jpg)
+
+![Cracha](img/cracha.jpg)
 
 ---
 
@@ -35,9 +46,17 @@ Link no site oficial: [**Sessão 1**](https://envision.microsoft.com/en-US/sessi
 
 Horário: **2:30 PM - 3:45 PM**
 
-adfad
+Público que acompanha a sessão: **120 pessoas**
 
-adagag
+![Sessao01](img/w01-01.jpg)
+
+![Sessao01](img/w01-02.jpg)
+
+![Sessao01](img/w01-03.jpg)
+
+![Sessao01](img/w01-04.jpg)
+
+![Sessao01](img/w01-05.jpg)
 
 ---
 
@@ -47,6 +66,12 @@ Link no site oficial: [**Sessão 2**](https://envision.microsoft.com/en-US/sessi
 
 Horário: **4:45 PM - 6:00 PM**
 
-adag aga
+Público que acompanha a sessão: **80 pessoas**
 
-agadgag
+![Sessao01](img/w02-01.jpg)
+
+![Sessao01](img/w02-02.jpg)
+
+![Sessao01](img/w02-03.jpg)
+
+![Sessao01](img/w02-04.jpg)
